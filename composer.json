@@ -1,5 +1,5 @@
 {
-    "name": "bluerhinos/phpmqtt",
+    "name": "viisut/phpmqtt",
     "description": "Simple MQTT Class",
     "license": "BSD",
     "type": "library",
@@ -7,6 +7,10 @@
         {
             "name": "Andrew Milsted",
             "email": "andrew@bluerhinos.co.uk"
+        },
+        {
+            "name":  "Siim Viisut",
+            "email": "siim.viisut@gmail.com"
         }
     ],
     "minimum-stability": "dev",
